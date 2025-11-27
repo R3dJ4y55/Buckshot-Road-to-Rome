@@ -2,10 +2,10 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 import java.util.Vector;
 
 /**
- * Write a description of class Player here.
+ * The character the player controls.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author R3dJ4y55
+ * @version 5
  */
 public class Player extends Actor
 {
@@ -81,7 +81,7 @@ public class Player extends Actor
         
         // Air Resistance (x)
         if (m != null){
-            if (this.getX() > 60 || this.getX() < 840){
+            if (this.getX() > 60 && this.getX() < 840){
                 if (m.getX() < getX() && velocity.getX() > 0){
                     velocity.add(AIR_RESISTANCE);
                     if (velocity.getX() < 0){
@@ -104,10 +104,6 @@ public class Player extends Actor
                     velocity.setX(0);
                     setLocation(840, getY());
                 }
-                System.out.println("-----");
-            }
-            if (Greenfoot.getRandomNumber(5) == 3){
-            System.out.printf("\n X: %d \n Y: %d", (int) velocity.getX(), (int) velocity.getY());
             }
         }
         

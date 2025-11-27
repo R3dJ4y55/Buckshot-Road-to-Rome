@@ -63,4 +63,11 @@ public class Vector2D
         
         return new Vector2D(x, y);
     }
+    
+    public Vector2D divide(double m){
+        x = x/m;
+        y = y/m;
+        
+        return new Vector2D(x, y);
+    }
 }

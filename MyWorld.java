@@ -27,5 +27,7 @@ public class MyWorld extends World
     {
         Player player = new Player();
         addObject(player,318,280);
+        
+        //addObject(new TaxCollector(), 800, 500);
     }
 }
