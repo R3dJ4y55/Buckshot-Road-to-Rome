@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Minotaur
+comment1.params=
+comment1.target=Minotaur()
+comment10.params=src
+comment10.target=greenfoot.GreenfootImage[]\ mirrorFrames(greenfoot.GreenfootImage[])
+comment11.params=damage
+comment11.target=void\ takeDamage(int)
+comment2.params=
+comment2.target=void\ clampToGround()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ chasePlayer()
+comment5.params=
+comment5.target=void\ checkAttackRange()
+comment6.params=
+comment6.target=void\ checkHit()
+comment7.params=newState
+comment7.target=void\ startAnimation(Minotaur.State)
+comment8.params=frames\ flippedFrames\ returnTo
+comment8.target=void\ animate(greenfoot.GreenfootImage[],\ greenfoot.GreenfootImage[],\ Minotaur.State)
+comment9.params=arr\ base\ count
+comment9.target=void\ loadFrames(greenfoot.GreenfootImage[],\ java.lang.String,\ int)
+numComments=12

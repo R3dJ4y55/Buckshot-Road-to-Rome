@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MenuPlayer
+comment1.params=
+comment1.target=MenuPlayer()
+comment2.params=button
+comment2.target=void\ shootAtTarget(greenfoot.Actor)
+comment3.params=button
+comment3.target=void\ aimAt(greenfoot.Actor)
+numComments=4

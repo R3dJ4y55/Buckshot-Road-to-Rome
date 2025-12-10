@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MenuBullet
+comment1.params=speed\ damage\ target
+comment1.target=MenuBullet(int,\ int,\ Button)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

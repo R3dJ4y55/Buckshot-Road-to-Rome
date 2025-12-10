@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LootParticle
+comment1.params=imageFile
+comment1.target=LootParticle(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
