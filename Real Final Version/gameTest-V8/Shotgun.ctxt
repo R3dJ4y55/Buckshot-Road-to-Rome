@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Shotgun
+comment1.params=
+comment1.target=Shotgun()
+comment2.params=button
+comment2.target=void\ hoverAt(greenfoot.Actor)
+numComments=3

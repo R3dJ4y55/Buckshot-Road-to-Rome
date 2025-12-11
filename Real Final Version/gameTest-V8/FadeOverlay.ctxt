@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FadeOverlay
+comment1.params=startFadeIn
+comment1.target=FadeOverlay(boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ updateImage()
+comment4.params=
+comment4.target=void\ startFadeOut()
+comment5.params=
+comment5.target=boolean\ isFadingOut()
+comment6.params=
+comment6.target=boolean\ isFinished()
+numComments=7
